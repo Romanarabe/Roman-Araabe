@@ -1,2 +1,2 @@
-# Roman-Araabe
+# Roman-Arabe
 Personal Website
